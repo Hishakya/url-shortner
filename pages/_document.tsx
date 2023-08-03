@@ -13,8 +13,8 @@ export default function Document() {
         <Main />
         <NextScript />
       </body>
-      <Script src="/wait.js"></Script>
-      <Script src="/get.js"></Script>
+      <Script src="/promise.js"></Script>
+      <Script src="/fetch.js"></Script>
     </Html>
   );
 }
